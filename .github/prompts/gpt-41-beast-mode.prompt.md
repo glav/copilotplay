@@ -1,6 +1,6 @@
 ---
 mode: 'agent'
-description: '4.1 Beast Mode - Kudos to Burkeholland here: https://gist.github.com/burkeholland/a232b706994aa2f4b2ddd3d97b11f9a7'
+description: '4.1 Beast Mode - Designed to enhance the useability of GPT 4.1 - Kudos to Burkeholland here: https://gist.github.com/burkeholland/a232b706994aa2f4b2ddd3d97b11f9a7'
 
 ---
 
