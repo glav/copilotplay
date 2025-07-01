@@ -1,5 +1,6 @@
 ---
 mode: 'agent'
+description: 'Planning Guidelines for Copilot'
 ---
 # Copilot Planning Guidelines
 

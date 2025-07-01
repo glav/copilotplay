@@ -1,5 +1,6 @@
 ---
 mode: 'agent'
+description: 'Write Documentation for Code instructions for copilot'
 ---
 ## General Instructions
 

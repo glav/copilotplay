@@ -1,5 +1,6 @@
 ---
 mode: 'agent'
+description: 'Simplify Code Guidelines for Copilot'
 ---
 ## General Instructions
 - Look at ways of simplifying the code by removing instructions that are not necessary to achieve the intended purpose.
